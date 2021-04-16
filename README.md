@@ -104,5 +104,5 @@ Contributing
 Please read CONTRIBUTING.md for the process for submitting pull requests.
 Authors
 
-   Shanmukha Mudigonda - Initial work
+   koustubha Mudigonda - Initial work
     Udacity - Final Project of the AI with Python Nanodegree
